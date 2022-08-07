@@ -60,7 +60,4 @@ int main(void)
 
 
     }
-
-    // 3- Identify the Credit Card Type
-
 }
